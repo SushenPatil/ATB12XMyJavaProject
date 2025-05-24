@@ -7,7 +7,7 @@ public class Lab025_Interview_QnA23 {
         int a_b = 89;
 //        int pramod dutta  = 89;
         int pramod$dutta = 90;
-        int Lab020_Interview_QnA2 = 123;
+        int Lab025_Interview_QnA2 = 123;
 
 
 

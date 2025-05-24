@@ -1,6 +1,6 @@
 package ex_02_Java_Basics_Part2;
 
-public class Lab025_Numerics_Data_Types {
+public class Lab027_Numerics_Data_Types {
     public static void main(String[] args) {
 
         //byte b = 128; // -128 to 127
